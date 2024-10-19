@@ -1,0 +1,7 @@
+[
+    { "airline": "Delta", "flightTime": 120, "fuel": 500, "cost": 300 },
+    { "airline": "United", "flightTime": 180, "fuel": 800, "cost": 450 },
+    { "airline": "American", "flightTime": 90, "fuel": 300, "cost": 200 },
+    { "airline": "Delta", "flightTime": 240, "fuel": 900, "cost": 600 }
+  ]
+  
